@@ -6,7 +6,7 @@
 
 x = 5
 y = 10
-z = 30
+z = 3
 # create a temporary variable and swap the values
 temp = x
 x = y
